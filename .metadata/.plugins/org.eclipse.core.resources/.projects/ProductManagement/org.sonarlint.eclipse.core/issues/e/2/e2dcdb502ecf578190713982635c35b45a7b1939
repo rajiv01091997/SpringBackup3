@@ -1,0 +1,10 @@
+
+h
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(²•±ˆúÿÿÿÿ8êÂÊşâ0H”RMAJORZBUG
+…	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£Ğ­ıÿÿÿÿ8±àšÿâ0H®RMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹ÕØÚşÿÿÿÿHŸRMINORZ
+CODE_SMELL
+\
+java:S11726")Remove this unused method parameter "id".(–ÎÓÁ8Íÿ×ÿâ0H¸RMAJORZ
+CODE_SMELL

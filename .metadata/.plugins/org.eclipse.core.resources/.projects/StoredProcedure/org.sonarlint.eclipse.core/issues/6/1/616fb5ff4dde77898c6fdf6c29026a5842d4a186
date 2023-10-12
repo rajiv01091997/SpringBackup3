@@ -1,0 +1,22 @@
+
+p	java:S106*"9Replace this use of System.out or System.err by a logger.(–ζτ¥ϊÿÿÿÿ8°ΤΑ›ε0Hε3RMAJORZ
+CODE_SMELL
+}
+java:S2095&"OUse try-with-resources or close this "CallableStatement" in a "finally" clause.(¶€Ό―8°ΤΑ›ε0Hζ3RBLOCKERZBUG
+e
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ΫοΖ8·ΐγ†ε0Hη3RMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤ΨεπHι3RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ψ‡Α‰ϊÿÿÿÿ8·ΐγ†ε0Hκ3RMAJORZ
+CODE_SMELL
+‚
+java:S2095H"OUse try-with-resources or close this "CallableStatement" in a "finally" clause.(–Βςόÿÿÿÿ8ηττε0Hλ3RBLOCKERZBUG
+p	java:S106M"9Replace this use of System.out or System.err by a logger.(Ώνύ΄ύÿÿÿÿ8΄υ¨υε0Hμ3RMAJORZ
+CODE_SMELL
+‚
+java:S20959"OUse try-with-resources or close this "CallableStatement" in a "finally" clause.(Ο½ύϊÿÿÿÿ8‚Ώοσε0Hν3RBLOCKERZBUG
+}
+java:S2095"OUse try-with-resources or close this "CallableStatement" in a "finally" clause.(Ή±δϊ8δή†ε0Hξ3RBLOCKERZBUG
+p	java:S106<"9Replace this use of System.out or System.err by a logger.(ΪΛύÿÿÿÿ8‚Ώοσε0Hο3RMAJORZ
+CODE_SMELL

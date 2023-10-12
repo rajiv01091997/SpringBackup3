@@ -1,0 +1,28 @@
+
+_
+java:S1068"'Remove this unused "doj" private field.(¿¸–Šÿÿÿÿÿ8òóæŞÙ0HRMAJORZ
+CODE_SMELL
+ˆ	java:S116"QRename this field "emp_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÄÄõøÿÿÿÿ8òóæŞÙ0H RMINORZ
+CODE_SMELL
+Z
+java:S1068
+"'Remove this unused "dob" private field.(¢ÑŸ»8òóæŞÙ0H¡RMAJORZ
+CODE_SMELL
+]
+java:S1068	"*Remove this unused "salary" private field.(×„ë‡8òóæŞÙ0H£RMAJORZ
+CODE_SMELL
+c
+java:S1068"+Remove this unused "address" private field.(ßÍ˜²ıÿÿÿÿ8òóæŞÙ0H¥RMAJORZ
+CODE_SMELL
+d
+java:S1068",Remove this unused "emp_name" private field.(Ñ²Òïùÿÿÿÿ8òóæŞÙ0H§RMAJORZ
+CODE_SMELL
+b
+java:S1068"*Remove this unused "emp_id" private field.(ôÄÄõøÿÿÿÿ8òóæŞÙ0H©RMAJORZ
+CODE_SMELL
+ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌïŒ™8ËÍôŞÙ0H«RMINORZ
+CODE_SMELL
+ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌïŒ™8ËÍôŞÙ0H¬RMINORZ
+CODE_SMELL
+Š	java:S116"SRename this field "emp_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ²Òïùÿÿÿÿ8òóæŞÙ0H­RMINORZ
+CODE_SMELL

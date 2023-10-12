@@ -1,0 +1,15 @@
+
+^
+java:S1168D"+Return an empty collection instead of null.(¥¹ï8Ç­úöÛ0H˜RMAJORZ
+CODE_SMELL
+
+java:S3655&"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(şÑí½ÿÿÿÿÿ8”»ŒÜ0H²RMAJORZBUG
+i
+java:S1135C"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8Ç­úöÛ0H“RINFOZ
+CODE_SMELL
+
+java:S3655 "PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ñ«šÓıÿÿÿÿ8”»ŒÜ0H³RMAJORZBUG
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹ÕØÚşÿÿÿÿH…RMINORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(×¯Ğíúÿÿÿÿ8³ŠÀ§Ü0H½RMAJORZ
+CODE_SMELL

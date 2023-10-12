@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;Model&apos; to &apos;com.globallogic.Model&apos;&#x0A;- Original project: &apos;SoccerManagement&apos;&#x0A;- Original element: &apos;SoccerManagement/src/Model&apos;&#x0A;- Renamed element: &apos;SoccerManagement/src/com.globallogic.Model&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;Model&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;Model" name="com.globallogic.Model" qualified="false" references="true" stamp="1672827365058" textual="false" version="1.0"/>
+</session>

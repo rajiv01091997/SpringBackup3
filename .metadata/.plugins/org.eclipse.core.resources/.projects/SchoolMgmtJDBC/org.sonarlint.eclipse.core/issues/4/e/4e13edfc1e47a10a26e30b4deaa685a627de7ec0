@@ -1,0 +1,14 @@
+
+s	java:S125"<This block of commented-out lines of code should be removed.(õÎâÿÿÿÿÿ8ä˜ç­â0H³3RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8Ïú¸®â0H´3RMAJORZ
+CODE_SMELL
+n	java:S125$"<This block of commented-out lines of code should be removed.(Š›ÚÖ8Öë¾®â0H»3RMAJORZ
+CODE_SMELL
+
+java:S1128"IRemove this unused import 'com.globallogic.Exceptions.StudentNotPresent'.(Ü¾¤¼øÿÿÿÿ8Öë¾®â0HÃ3RMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İÀ¸ßüÿÿÿÿHÅ3RMINORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(ù’¯œüÿÿÿÿ8ƒ›ì­â0HÆ3RMAJORZ
+CODE_SMELL

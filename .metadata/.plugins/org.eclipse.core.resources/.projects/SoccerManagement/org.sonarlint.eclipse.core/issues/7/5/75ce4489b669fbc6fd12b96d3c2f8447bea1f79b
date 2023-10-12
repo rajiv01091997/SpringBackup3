@@ -1,0 +1,22 @@
+
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡ÎÓÆúÿÿÿÿHªRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¡Ï®—üÿÿÿÿ8ÝºÈ‰Ø0HæRMAJORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(›ë›¼ÿÿÿÿÿ8¥Ñº‰Ø0H¿RMINORZ
+CODE_SMELL
+|
+java:S1192"FDefine a constant instead of duplicating this literal "Music" 6 times.(¬¼ŸØ8¥Ñº‰Ø0HÁRCRITICALZ
+CODE_SMELL
+x
+java:S1854"@Remove this useless assignment to local variable "detailedList".(¶ÍŸ«ýÿÿÿÿ8ÀæƒÃØ0H¤RMAJORZ
+CODE_SMELL
+i
+java:S1481"1Remove this unused "detailedList" local variable.(¶ÍŸ«ýÿÿÿÿ8ÀæƒÃØ0H¥RMINORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(û–ž·þÿÿÿÿ8ÀæƒÃØ0H§RMAJORZ
+CODE_SMELL
+…
+java:S62045"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ÀæƒÃØ0H¨RMAJORZ
+CODE_SMELL

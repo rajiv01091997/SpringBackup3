@@ -1,0 +1,29 @@
+
+d	java:S106c"9Replace this use of System.out or System.err by a logger.(ß‚¡ƒHÏ3RMAJORZ
+CODE_SMELL
+i	java:S106w"9Replace this use of System.out or System.err by a logger.(ŒÄ¨—şÿÿÿÿHË3RMAJORZ
+CODE_SMELL
+^
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸHÔ3RMINORZ
+CODE_SMELL
+{
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¹¼ñ÷úÿÿÿÿHÖ3RBLOCKERZBUG
+S
+java:S1125"'Remove the unnecessary boolean literal.(±Ï¸óHÈ3RMINORZ
+CODE_SMELL
+v
+java:S2095`"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(å˜øÖHĞ3RBLOCKERZBUG
+{
+java:S2095r"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Æ±ğÇûÿÿÿÿHÓ3RBLOCKERZBUG
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤ØåğHÎ3RMINORZ
+CODE_SMELL
+{
+java:S2095K"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ºÎ¶ıÿÿÿÿHÑ3RBLOCKERZBUG
+i	java:S106"9Replace this use of System.out or System.err by a logger.(©‹ïöûÿÿÿÿHÌ3RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(²²»‚HÍ3RMAJORZ
+CODE_SMELL
+i	java:S106y"9Replace this use of System.out or System.err by a logger.(ö·¿çùÿÿÿÿHÒ3RMAJORZ
+CODE_SMELL
+v
+java:S20951"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(“±úHÇ3RBLOCKERZBUG

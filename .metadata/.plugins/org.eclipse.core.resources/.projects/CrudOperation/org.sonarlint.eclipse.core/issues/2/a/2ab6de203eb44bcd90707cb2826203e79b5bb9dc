@@ -1,0 +1,11 @@
+
+Ö
+java:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜËñ◊HÙRMINORZ
+CODE_SMELL
+Ö	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨Ù—èHˆRMINORZ
+CODE_SMELL
+Ö
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(Î©ÑâH˜RMINORZ
+CODE_SMELL
+r
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ˇ·«∂H˘RCRITICALZVULNERABILITY

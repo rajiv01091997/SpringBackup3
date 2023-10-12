@@ -1,0 +1,26 @@
+
+k	java:S106B"9Replace this use of System.out or System.err by a logger.(õï¸ì8³ˆ€İ­1Hü6RMAJORZ
+CODE_SMELL
+b
+java:S1197."*Move the array designators [] to the type.(º ìıÿÿÿÿ8³ˆ€İ­1Hğ6RMINORZ
+CODE_SMELL
+p	java:S1069"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8³ˆ€İ­1Hù6RMAJORZ
+CODE_SMELL
+s	java:S1250"<This block of commented-out lines of code should be removed.(ø„È¨ùÿÿÿÿ8³ˆ€İ­1Hó6RMAJORZ
+CODE_SMELL
+k	java:S106D"9Replace this use of System.out or System.err by a logger.(‚¨Ö§8³ˆ€İ­1Hı6RMAJORZ
+CODE_SMELL
+‹
+java:S1602<"SRemove useless curly braces around statement and then remove useless return keyword(ÒÌâ–øÿÿÿÿ8³ˆ€İ­1Hû6RMINORZ
+CODE_SMELL
+i
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8Ô¦¥Ù­1H 6RINFOZ
+CODE_SMELL
+n	java:S1258"<This block of commented-out lines of code should be removed.(ªªš8³ˆ€İ­1Hú6RMAJORZ
+CODE_SMELL
+‘
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(¢¦ƒ ÿÿÿÿÿ8Ô¦¥Ù­1HŸ6RMINORZ
+CODE_SMELL
+Š
+java:S62047"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ØÄæğşÿÿÿÿ8Şá’İ­1H€8RMAJORZ
+CODE_SMELL

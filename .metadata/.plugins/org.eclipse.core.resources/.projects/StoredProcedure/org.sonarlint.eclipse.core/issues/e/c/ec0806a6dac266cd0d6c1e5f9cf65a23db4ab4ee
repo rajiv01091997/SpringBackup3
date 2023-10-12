@@ -1,0 +1,9 @@
+
+m
+java:S1118":Add a private constructor to hide the implicit public one.(¦ֹ˜8וסײüה0Hא3RMAJORZ
+CODE_SMELL
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(טכ°‎ÿÿÿÿHב3RMINORZ
+CODE_SMELL
+•
+java:S1488"bImmediately return this expression instead of assigning it to the temporary variable "connection".(ֵ÷¬י8וסײüה0Hג3RMINORZ
+CODE_SMELL

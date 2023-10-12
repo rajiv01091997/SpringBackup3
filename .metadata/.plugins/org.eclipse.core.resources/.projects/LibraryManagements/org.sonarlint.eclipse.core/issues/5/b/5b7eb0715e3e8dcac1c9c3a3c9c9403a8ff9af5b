@@ -1,0 +1,22 @@
+
+~
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(‡äåëùÿÿÿÿ8çÆ¼ôÛ0HÜRCRITICALZVULNERABILITY
+…	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÁÖ·ÿÿÿÿÿ8ÝÍ´õÛ0HÝRMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®†‰çûÿÿÿÿHÞRMINORZ
+CODE_SMELL
+‹
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹Ýˆq8ÝÍ´õÛ0HßRMINORZ
+CODE_SMELL
+Œ
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŽßÕ¨8ÝÍ´õÛ0HáRMINORZ
+CODE_SMELL
+‘
+java:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(øæáñýÿÿÿÿ8Ë”ÄôÛ0HãRMINORZ
+CODE_SMELL
+w
+java:S1128"DRemove this unused import 'org.springframework.http.HttpStatusCode'.(®å™Õ8çÆ¼ôÛ0HåRMINORZ
+CODE_SMELL
+‘
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(¤Œïùÿÿÿÿ8çÆ¼ôÛ0HçRMINORZ
+CODE_SMELL

@@ -1,0 +1,20 @@
+
+x	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ªçú‰H÷RMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(±—≤8µ’ó““0HóRMAJORZ
+CODE_SMELL
+b
+java:S1197"*Move the array designators [] to the type.(Å∫†Ï˝ˇˇˇˇ8Èœç–“0H›RMINORZ
+CODE_SMELL
+m
+java:S1161":Add the "@Override" annotation above this method signature(‘ìëÎ8›±ï““0HêRMAJORZ
+CODE_SMELL
+ä	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΩçˇÊ˙ˇˇˇˇH◊RMINORZ
+CODE_SMELL
+i
+java:S1135"2Complete the task associated to this TODO comment.(ª†Êûˇˇˇˇˇ8æíî–“0H‰RINFOZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ô°ø8æíî–“0H„RMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(¸ΩıÏ8Ω—∑““0H®RMAJORZ
+CODE_SMELL

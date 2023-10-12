@@ -1,0 +1,9 @@
+
+i
+java:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ8’ì×Òâ0H˜RINFOZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(è§ÃñÿÿÿÿÿHËRMINORZ
+CODE_SMELL
+…
+java:S1128"RRemove this unused import 'com.fasterxml.jackson.annotation.JsonManagedReference'.(Æ˜µ8«‹Ùşâ0H¤RMINORZ
+CODE_SMELL

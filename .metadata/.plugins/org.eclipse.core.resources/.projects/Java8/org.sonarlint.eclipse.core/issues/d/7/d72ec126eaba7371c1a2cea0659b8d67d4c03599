@@ -1,0 +1,24 @@
+
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âÝœ»ýÿÿÿÿHå/RMINORZ
+CODE_SMELL
+b
+java:S1854*"6Remove this useless assignment to local variable "f2".(Ï±®®Hæ/RMAJORZ
+CODE_SMELL
+f
+java:S1854"5Remove this useless assignment to local variable "f".(ƒÐÐ¥ÿÿÿÿÿHç/RMAJORZ
+CODE_SMELL
+W
+java:S1481"&Remove this unused "f" local variable.(ƒÐÐ¥ÿÿÿÿÿHè/RMINORZ
+CODE_SMELL
+„
+java:S4276*"XRefactor this code to use the more specialised Functional Interface 'Predicate<Student>'(Ï±®®Hê/RMINORZ
+CODE_SMELL
+l	java:S125!"<This block of commented-out lines of code should be removed.(ªÚè—ùÿÿÿÿHë/RMAJORZ
+CODE_SMELL
+S
+java:S1481*"'Remove this unused "f2" local variable.(Ï±®®Hò/RMINORZ
+CODE_SMELL
+i	java:S106+"9Replace this use of System.out or System.err by a logger.(Öøí›ýÿÿÿÿHô/RMAJORZ
+CODE_SMELL
+i	java:S106,"9Replace this use of System.out or System.err by a logger.(€¡ÃïþÿÿÿÿHõ/RMAJORZ
+CODE_SMELL

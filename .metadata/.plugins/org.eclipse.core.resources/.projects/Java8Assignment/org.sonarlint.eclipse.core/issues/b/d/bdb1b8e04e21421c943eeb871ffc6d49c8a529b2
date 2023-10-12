@@ -1,0 +1,17 @@
+
+Š
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(ŠÂÛ±ıÿÿÿÿ8ùœí÷0H†3RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(‰Áâƒ8å–ñ÷0H‡3RMAJORZ
+CODE_SMELL
+`
+java:S1125"(Remove the unnecessary boolean literals.(ŠÂÛ±ıÿÿÿÿ8ùœí÷0Hˆ3RMINORZ
+CODE_SMELL
+y
+java:S1126"AReplace this if-then-else statement by a single return statement.(­¡çˆüÿÿÿÿ8ùœí÷0H‹3RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ĞÈ¡šıÿÿÿÿ8ùœí÷0HŒ3RMAJORZ
+CODE_SMELL
+…
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(èßàô8ùœí÷0H3RMINORZ
+CODE_SMELL

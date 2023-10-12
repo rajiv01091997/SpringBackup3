@@ -1,0 +1,15 @@
+
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñ™¼»úÿÿÿÿH¡RMINORZ
+CODE_SMELL
+‘
+java:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(Í˜ÄÀùÿÿÿÿ8 ßÒþâ0H˜RMINORZ
+CODE_SMELL
+Œ
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ô‡€è8»×ûþâ0H«RMINORZ
+CODE_SMELL
+‹
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÒñÙs8óž·ýâ0HÿRMINORZ
+CODE_SMELL
+r
+java:S1128":Remove this unused import 'com.globallogic.Model.Product'.(±»³¯ÿÿÿÿÿ8ž¯åÿâ0HÂRMINORZ
+CODE_SMELL

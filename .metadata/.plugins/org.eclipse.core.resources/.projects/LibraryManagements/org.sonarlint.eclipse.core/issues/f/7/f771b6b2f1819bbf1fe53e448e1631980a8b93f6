@@ -1,0 +1,8 @@
+
+}
+java:S1128"ERemove this unused import 'org.springframework.stereotype.Component'.(ёч—Є€€€€€8ео¶фџ0HгRMINORZ
+CODE_SMELL
+Б
+java:S3655 "PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(°ЯЈёы€€€€8≥с†хџ0HеRMAJORZBUG
+К	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(є’ЎЏю€€€€HжRMINORZ
+CODE_SMELL

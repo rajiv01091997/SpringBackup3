@@ -1,0 +1,20 @@
+
+j	java:S106#"9Replace this use of System.out or System.err by a logger.(¢„ç08ŠØ³Ù0HØ5RMAJORZ
+CODE_SMELL
+„
+java:S3973$"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ8ï‰¡³Ù0HÙ5RCRITICALZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÃÿÛ¦ÿÿÿÿÿ8—¨æ²Ù0HÛ5RMAJORZ
+CODE_SMELL
+p	java:S106)"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8ï‰¡³Ù0HÜ5RMAJORZ
+CODE_SMELL
+a
+java:S5413%")Verify that "remove()" is used correctly.(ì¦¯úÿÿÿÿ8—¨æ²Ù0Hİ5RMAJORZ
+CODE_SMELL
+b
+java:S1197
+"*Move the array designators [] to the type.(º ìıÿÿÿÿ8µüÃ²Ù0HŞ5RMINORZ
+CODE_SMELL
+„
+java:S3973"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ8ŠØ³Ù0Há5RCRITICALZ
+CODE_SMELL

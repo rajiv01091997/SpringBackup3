@@ -1,0 +1,16 @@
+
+s	java:S125"<This block of commented-out lines of code should be removed.(×ö¸úøÿÿÿÿ8Ì®öÛâ0H‰RMAJORZ
+CODE_SMELL
+n
+java:S1128";Remove this unused import 'com.globallogic.Entity.Capital'.(¢Ëß8Ì®öÛâ0H’RMINORZ
+CODE_SMELL
+m
+java:S1128	";Remove this unused import 'com.globallogic.Entity.Country'.(˜Òa8Ì®öÛâ0H”RMINORZ
+CODE_SMELL
+i
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8›ÊÈÛâ0HüRINFOZ
+CODE_SMELL
+s	java:S125-"<This block of commented-out lines of code should be removed.(Œöï¶ùÿÿÿÿ8ÒÔ¤Üâ0HÏRMAJORZ
+CODE_SMELL
+p	java:S106/"9Replace this use of System.out or System.err by a logger.(ñºÖúÿÿÿÿ8¼ƒ¦Üâ0HİRMAJORZ
+CODE_SMELL

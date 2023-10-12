@@ -1,0 +1,30 @@
+
+k	java:S106("9Replace this use of System.out or System.err by a logger.(Êªˆ8£ÁÏÀØ0HÅ5RMAJORZ
+CODE_SMELL
+k	java:S106/"9Replace this use of System.out or System.err by a logger.(Êªˆ8£ÁÏÀØ0HÆ5RMAJORZ
+CODE_SMELL
+k	java:S106'"9Replace this use of System.out or System.err by a logger.(‚ºÚ…8ÚãÁØ0HÇ5RMAJORZ
+CODE_SMELL
+k	java:S1066"9Replace this use of System.out or System.err by a logger.(Êªˆ8£ÁÏÀØ0HÈ5RMAJORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(²¹ó÷şÿÿÿÿ8şÈÊÀØ0HÉ5RMINORZ
+CODE_SMELL
+°
+java:S1192"zDefine a constant instead of duplicating this literal "_________________________________________________________" 5 times.(Êªˆ8ÚãÁØ0HË5RCRITICALZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Êªˆ8ÚãÁØ0HÑ5RMAJORZ
+CODE_SMELL
+k	java:S106;"9Replace this use of System.out or System.err by a logger.(Ñ©öÀ8Ù½šÂØ0HÒ5RMAJORZ
+CODE_SMELL
+p	java:S106."9Replace this use of System.out or System.err by a logger.(ÔÇıÇÿÿÿÿÿ8ÚãÁØ0HÓ5RMAJORZ
+CODE_SMELL
+p	java:S1065"9Replace this use of System.out or System.err by a logger.(Ÿº¯¢ÿÿÿÿÿ8ÚãÁØ0HÔ5RMAJORZ
+CODE_SMELL
+e
+java:S6126"2Replace this String concatenation with Text block.(Ô‚¡î8£ÁÏÀØ0HÕ5RMAJORZ
+CODE_SMELL
+k	java:S106!"9Replace this use of System.out or System.err by a logger.(Êªˆ8ÚãÁØ0HÖ5RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Ô‚¡î8ÚãÁØ0H×5RMAJORZ
+CODE_SMELL

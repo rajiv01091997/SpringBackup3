@@ -1,0 +1,6 @@
+
+~
+java:S1214"CMove constants defined in this interfaces to another class or enum.(èàŸËûÿÿÿÿ8”Ñ‹ªâ0H“3RCRITICALZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èžë°ýÿÿÿÿH˜3RMINORZ
+CODE_SMELL

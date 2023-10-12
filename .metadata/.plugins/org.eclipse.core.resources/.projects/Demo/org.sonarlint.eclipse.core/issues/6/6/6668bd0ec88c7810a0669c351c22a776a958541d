@@ -1,0 +1,24 @@
+
+o
+java:S1128"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ8¿Æ¼Û­1HÚ6RMINORZ
+CODE_SMELL
+c
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8­ûÃÛ­1Hè6RMINORZ
+CODE_SMELL
+j
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8ßââÙ­1HË6RMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(Ú°à¬8Ù¬„Ý­1H“7RMAJORZ
+CODE_SMELL
+d
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8Ù¬„Ý­1H¥7RMINORZ
+CODE_SMELL
+c
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ù¬„Ý­1H§7RMINORZ
+CODE_SMELL
+p
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Ù¬„Ý­1H©7RMINORZ
+CODE_SMELL
+g
+java:S1128	"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”8Ù¬„Ý­1H«7RMINORZ
+CODE_SMELL

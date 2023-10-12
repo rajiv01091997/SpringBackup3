@@ -1,0 +1,28 @@
+
+k	java:S106<"9Replace this use of System.out or System.err by a logger.(Êªˆ8äà×½Ø0H¾	RMAJORZ
+CODE_SMELL
+p	java:S106L"9Replace this use of System.out or System.err by a logger.(úõ–áùÿÿÿÿ8Ğ“±¾Ø0HÓ	RMAJORZ
+CODE_SMELL
+k	java:S106%"9Replace this use of System.out or System.err by a logger.(Êªˆ8Ğ“±¾Ø0HÒ	RMAJORZ
+CODE_SMELL
+k	java:S106!"9Replace this use of System.out or System.err by a logger.(ô‡³õ8äà×½Ø0HÃ	RMAJORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(²¹ó÷şÿÿÿÿ8Éß¸¼Ø0H¢	RMINORZ
+CODE_SMELL
+k	java:S106,"9Replace this use of System.out or System.err by a logger.(Êªˆ8äà×½Ø0HÂ	RMAJORZ
+CODE_SMELL
+k	java:S106@"9Replace this use of System.out or System.err by a logger.(Ñ©öÀ8äà×½Ø0H½	RMAJORZ
+CODE_SMELL
+°
+java:S1192 "zDefine a constant instead of duplicating this literal "_________________________________________________________" 6 times.(Êªˆ8äà×½Ø0H¸	RCRITICALZ
+CODE_SMELL
+k	java:S1061"9Replace this use of System.out or System.err by a logger.(Êªˆ8Ğ“±¾Ø0HÑ	RMAJORZ
+CODE_SMELL
+k	java:S1067"9Replace this use of System.out or System.err by a logger.(Êªˆ8äà×½Ø0HÀ	RMAJORZ
+CODE_SMELL
+e
+java:S6126!"2Replace this String concatenation with Text block.(ô‡³õ8äà×½Ø0H¿	RMAJORZ
+CODE_SMELL
+k	java:S106 "9Replace this use of System.out or System.err by a logger.(Êªˆ8Ğ“±¾Ø0HÔ	RMAJORZ
+CODE_SMELL

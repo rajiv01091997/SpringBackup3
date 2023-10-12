@@ -1,0 +1,33 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Š¸íâ8ğ£úóå0Há)RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ô †ï8Öïˆå0Hâ)RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¦ü¶”ûÿÿÿÿ8—»–ôå0Hã)RMAJORZ
+CODE_SMELL
+ƒ	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñâœ•8ğ£úóå0Hä)RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(…šœÁøÿÿÿÿ8ğ£úóå0Hå)RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(”Í„Ìÿÿÿÿÿ8Öïˆå0Hæ)RMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İÀ¸ßüÿÿÿÿHç)RMINORZ
+CODE_SMELL
+k	java:S106/"9Replace this use of System.out or System.err by a logger.(ûÇÁÿ8õŒ¿ôå0Hè)RMAJORZ
+CODE_SMELL
+k	java:S106:"9Replace this use of System.out or System.err by a logger.(¯ãâÀ8ğ¬õå0Hé)RMAJORZ
+CODE_SMELL
+j	java:S1061"9Replace this use of System.out or System.err by a logger.(ı†‚(8ğ¬õå0Hê)RMAJORZ
+CODE_SMELL
+ˆ	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©îÂ¯ÿÿÿÿÿ8õŒ¿ôå0Hë)RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¦ü¶”ûÿÿÿÿ8Öïˆå0Hì)RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(§–˜´øÿÿÿÿ8—»–ôå0Hí)RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Ôéê¹8õŒ¿ôå0Hî)RMAJORZ
+CODE_SMELL
+\	java:S131""Add a default case to this switch.(ãËûÿÿÿÿ8Öïˆå0Hï)RCRITICALZ
+CODE_SMELL
+k	java:S106*"9Replace this use of System.out or System.err by a logger.(‹°¯­8€—®ôå0Hğ)RMAJORZ
+CODE_SMELL

@@ -1,0 +1,30 @@
+package com.demo;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
+public class Employee implements Comparable<Employee>{
+
+	int id;
+	String name;
+	int salary;
+	
+	
+	public Employee(int id, String name, int salary) {
+		super();
+		this.id = id;
+		this.name = name;
+		this.salary = salary;
+	}
+
+
+	@Override
+	public int compareTo(Employee o) {
+		// TODO Auto-generated method stub
+		return this.name.compareTo(o.name);
+	}
+	
+}
+
+

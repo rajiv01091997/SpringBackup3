@@ -1,0 +1,14 @@
+package com.demo;
+
+public class Employee implements Comparable<Employee>{
+
+	int id;
+	String name;
+	int salary;
+	@Override
+	public int compareTo(Employee o) {
+		// TODO Auto-generated method stub
+		return this.name.compareTo(o.name);
+	}
+	
+}

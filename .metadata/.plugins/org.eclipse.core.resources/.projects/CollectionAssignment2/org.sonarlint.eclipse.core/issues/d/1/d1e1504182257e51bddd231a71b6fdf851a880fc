@@ -1,0 +1,35 @@
+
+}
+java:S3973#"GUse indentation to denote the code conditionally executed by this "if".( ³®Ð8ü±‘²Ù0Hã5RCRITICALZ
+CODE_SMELL
+k
+java:S1854"8Remove this useless assignment to local variable "temp".(œ¯¥³8ÀúÂ±Ù0Hå5RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(Ö÷©¾úÿÿÿÿ8Þ´Ï±Ù0Hæ5RMAJORZ
+CODE_SMELL
+p	java:S106&"9Replace this use of System.out or System.err by a logger.(ÉØÇÿÿÿÿÿ8»Ÿ–²Ù0Hç5RMAJORZ
+CODE_SMELL
+c
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8‚¶¼²Ù0Hè5RMINORZ
+CODE_SMELL
+p	java:S106$"9Replace this use of System.out or System.err by a logger.(òÙÌÉûÿÿÿÿ8ü±‘²Ù0Hê5RMAJORZ
+CODE_SMELL
+„
+java:S3973%"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ8ü±‘²Ù0Hë5RCRITICALZ
+CODE_SMELL
+Œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(óí´ó8ÓŸ‹±Ù0Hí5RMINORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(ƒ”Ãçÿÿÿÿÿ8ü±‘²Ù0Hï5RMAJORZ
+CODE_SMELL
+Œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ìÆå¸8ÀúÂ±Ù0Hð5RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ìž€òýÿÿÿÿ8ÀúÂ±Ù0Hò5RMAJORZ
+CODE_SMELL
+w
+java:S1854"DRemove this useless assignment to local variable "numberOfQuesries".(·¡˜Õ8ü±‘²Ù0Hó5RMAJORZ
+CODE_SMELL
+h
+java:S1481"5Remove this unused "numberOfQuesries" local variable.(·¡˜Õ8ü±‘²Ù0Hô5RMINORZ
+CODE_SMELL

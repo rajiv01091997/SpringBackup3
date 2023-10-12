@@ -1,0 +1,12 @@
+
+d
+java:S1068",Remove this unused "house_no" private field.(Ÿ²ê¦ùÿÿÿÿ8Ş’¨İÙ0HĞRMAJORZ
+CODE_SMELL
+]
+java:S1068"*Remove this unused "street" private field.(›¸8Ş’¨İÙ0HÒRMAJORZ
+CODE_SMELL
+[
+java:S1068"(Remove this unused "city" private field.(“øÌà8Ş’¨İÙ0HÔRMAJORZ
+CODE_SMELL
+Š	java:S116"SRename this field "house_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ²ê¦ùÿÿÿÿ8Ş’¨İÙ0HÖRMINORZ
+CODE_SMELL

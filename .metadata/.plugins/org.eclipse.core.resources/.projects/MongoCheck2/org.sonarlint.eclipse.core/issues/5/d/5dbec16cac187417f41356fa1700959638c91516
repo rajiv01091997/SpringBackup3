@@ -1,0 +1,19 @@
+
+}	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÄÇÏÒþÿÿÿÿHÂRMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñ™¼»úÿÿÿÿHÃRMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(Ú°à¬8Ó“Û²Ê0HáRMAJORZ
+CODE_SMELL
+c
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ó“Û²Ê0HçRMINORZ
+CODE_SMELL
+ˆ
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.PostMapping'.(äƒà°ùÿÿÿÿ8Ó“Û²Ê0HéRMINORZ
+CODE_SMELL
+ˆ
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.RequestBody'.(â­½Àýÿÿÿÿ8Ó“Û²Ê0HëRMINORZ
+CODE_SMELL
+r
+java:S1128":Remove this unused import 'com.globallogic.Entity.Person'.(±Ü»øÿÿÿÿ8Ó“Û²Ê0HíRMINORZ
+CODE_SMELL
